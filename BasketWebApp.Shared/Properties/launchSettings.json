@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BasketWebApp.Shared": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
